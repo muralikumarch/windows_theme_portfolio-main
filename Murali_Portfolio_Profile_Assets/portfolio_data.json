@@ -1,0 +1,186 @@
+{
+  "person": {
+    "name": "Venkata Murali Kumar Chintala",
+    "headline": "Technical Lead | Solution Architect | Enterprise Java | Python AI & Generative AI | AWS & Azure Microservices",
+    "education": "Master of Computer Applications (MCA) & B.Sc. Computer Science",
+    "institution": "Andhra University",
+    "cgpa": "Completed",
+    "graduation": "March 2006",
+    "email": "muralikumar.ch@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/chvmuralikumar",
+    "github": "https://github.com/chvmuralikumar"
+  },
+  "skills": {
+    "languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "C++",
+      "HTML5",
+      "CSS3"
+    ],
+    "genai_llm": [
+      "Amazon Bedrock",
+      "Azure AI Foundry",
+      "LangChain",
+      "CrewAI",
+      "Prompt Engineering",
+      "Chain-of-Thought",
+      "Vector Databases",
+      "Tool Calling",
+      "Semantic Search"
+    ],
+    "backend_frameworks": [
+      "Spring Boot",
+      "Java/J2EE",
+      "FastAPI",
+      "RESTful APIs",
+      "Microservices",
+      "Hibernate/JPA",
+      "Spring Security",
+      "OAuth 2.0 / JWT"
+    ],
+    "cloud_devops": [
+      "AWS (ECS, EKS, Fargate, Lambda, API Gateway, S3, RDS, CloudWatch)",
+      "Azure (AKS, Container Apps, APIM, Functions, Managed Redis)",
+      "Docker",
+      "Jenkins",
+      "Azure DevOps",
+      "Maven",
+      "Git",
+      "SVN"
+    ],
+    "frontend_mobile": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "Kony Mobile Platform",
+      "JSP",
+      "Thymeleaf",
+      "JSF",
+      "PrimeFaces",
+      "Flutter"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Technical Lead",
+      "organization": "RCG Global Services (Myridius)",
+      "period": "Jul 2025 – Present",
+      "mode": "Chennai, remote, India",
+      "verified_points": [
+        "Primary design authority for cross-functional engineering pods",
+        "Generative AI agentic ecosystem across Amazon Bedrock and Azure AI",
+        "FastAPI async Python microservices",
+        "Angular/TypeScript SPAs",
+        "GitHub Copilot and Claude Code AI-assisted coding",
+        "Test-Driven Development (TDD) and Azure DevOps CI/CD"
+      ]
+    },
+    {
+      "role": "Principal Software Engineer",
+      "organization": "Parexel International",
+      "period": "Nov 2017 – Jun 2025",
+      "mode": "Hyderabad, India",
+      "verified_points": [
+        "Dual-track Architect and Lead IC (10+ engineers)",
+        "End-to-end modernization of critical legacy monoliths to Spring Boot microservices",
+        "Hibernate/JPA, Spring Security (OAuth 2.0/JWT)",
+        "LangChain, CrewAI, Azure OpenAI predictive modeling",
+        "Microsoft Power Platform low-code business solutions"
+      ]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organization": "Parexel International",
+      "period": "Sep 2014 – Nov 2017",
+      "mode": "Hyderabad, India",
+      "verified_points": [
+        "Java 8, Spring Boot, Spring MVC microservices on AWS EC2",
+        "AWS API Gateway RESTful integration",
+        "Spring Data JPA and Hibernate ORM latency tuning",
+        "JUnit and Mockito unit testing frameworks"
+      ]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organization": "Kony IT Services",
+      "period": "Oct 2013 – Sep 2014",
+      "mode": "Hyderabad, India",
+      "verified_points": [
+        "Architectural strategy for mobile and SPAs for banking & finance",
+        "Kony Platform with Java/J2EE backends",
+        "AWS S3, AWS Lambda, and Amazon SNS event-driven workflows"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "organization": "Wipro Technologies",
+      "period": "Mar 2010 – Oct 2013",
+      "mode": "Hyderabad, India",
+      "verified_points": [
+        "Core Java, JSF, PrimeFaces banking web interfaces",
+        "Hibernate ORM, JDBC, and Oracle 10g SQL optimization",
+        "JBOSS, WebLogic, Tomcat deployments",
+        "Maven build automation and SVN"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "GitHub Copilot Certification",
+      "issuer": "GitHub",
+      "issued": "2026"
+    },
+    {
+      "title": "AWS AI Practitioner",
+      "issuer": "Amazon Web Services",
+      "issued": "2025"
+    },
+    {
+      "title": "Azure AI Engineer Associate",
+      "issuer": "Microsoft Azure",
+      "issued": "2024"
+    },
+    {
+      "title": "AWS Solutions Architect Associate",
+      "issuer": "Amazon Web Services",
+      "issued": "2026"
+    },
+    {
+      "title": "AWS Developer Associate",
+      "issuer": "Amazon Web Services",
+      "issued": "2024"
+    },
+    {
+      "title": "Azure Solutions Architect Expert",
+      "issuer": "Microsoft Azure",
+      "issued": "2022"
+    },
+    {
+      "title": "Azure Developer Associate",
+      "issuer": "Microsoft Azure",
+      "issued": "2021"
+    },
+    {
+      "title": "Power Platform App Maker",
+      "issuer": "Microsoft",
+      "issued": "2022"
+    },
+    {
+      "title": "Oracle Certified Programmer",
+      "issuer": "Oracle",
+      "issued": "2019"
+    }
+  ],
+  "grounding": {
+    "allowed_scope": "Questions about Venkata Murali Kumar Chintala and his verified portfolio.",
+    "unknown_response": "I don't have verified information about that.",
+    "unrelated_response": "I'm Ask Murali, so I only answer questions about Venkata Murali Kumar Chintala and his work.",
+    "future_rule": "Never state an unverified future event as a fact. Distinguish goals/plans from guaranteed outcomes.",
+    "private_rule": "Do not expose private repository URLs or private project details as public resources.",
+    "concise": true
+  }
+}
